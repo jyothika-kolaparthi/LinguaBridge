@@ -45,6 +45,6 @@ Along with text translation, users can also:
 
 ### Landing Page  
 
-![Landing Page](https://github.com/jyothika-kolaparthi/ImageLab/blob/main/screenshots/home.png)
+![Landing Page](https://github.com/jyothika-kolaparthi/LinguaBridge/blob/main/screenshots/home%20page.png)
 
 ---
